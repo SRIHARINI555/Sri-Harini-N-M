@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sri+Harini+%F0%9F%91%8B;Web+Developer+%7C+Gen+AI+Explorer;ReactJS+%7C+Python+%7C+Java+%7C+SQL;Building+Intelligent+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
----
 
 ## 🧑‍💻 About Me
 
@@ -182,7 +181,6 @@ print(me.motto())
 
 ```
 🤖 Generative AI   →  LangChain · LLMs· Advanced RAG Pipelines
-⚛️ Frontend        →  Advanced ReactJS · Next.js · Tailwind CSS
 ```
 
 ---
